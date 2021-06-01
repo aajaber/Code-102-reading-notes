@@ -8,6 +8,6 @@
 # Table of Content
 |Contents|
 | ----------- | 
-|1-[Growth](https://github.com/aajaber/reading-notes/blob/main/growth.md)|
-|2-[Read 1](https://github.com/aajaber/reading-notes/blob/main/read1.md)|   
-|3-[Read 2](https://github.com/aajaber/reading-notes/blob/main/read2.md)|
+|1-[Growth](https://aajaber.github.io/reading-notes/growth)|
+|2-[Read 1](https://aajaber.github.io/reading-notes/read1)|   
+|3-[Read 2](https://aajaber.github.io/reading-notes/read2)|
