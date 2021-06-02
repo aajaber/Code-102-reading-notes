@@ -1,7 +1,7 @@
 # HTML Structure Read:
 
 ## Wireframe and Design: 
- **Wireframe: ** is just a baisc **Sketch** on a piece of paper for a digital interface.
+ **Wireframe:** is just a baisc **Sketch** on a piece of paper for a digital interface.
  it will help to design and plan the interface before getting into details.
 
  It will help to plan a basic structure for screens first to give an idea or an image about what things should be added and replaced.**Like: **
