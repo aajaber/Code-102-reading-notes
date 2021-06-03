@@ -12,7 +12,8 @@
 
 | Content #      | Content |
 | ----------- | ----------- |
-|1   | [Growth](https://aajaber.github.io/reading-notes/growth) |
-| 2   |[Read 1](https://aajaber.github.io/reading-notes/read1)|
-| 3   |[Read 2](https://aajaber.github.io/reading-notes/read2)|
-| 4   |[Read 3](https://aajaber.github.io/reading-notes/read3)|
+|1   |[Growth](https://aajaber.github.io/reading-notes/growth)|
+|2   |[Read 1](https://aajaber.github.io/reading-notes/read1)|
+|3   |[Read 2](https://aajaber.github.io/reading-notes/read2)|
+|4   |[Read 3](https://aajaber.github.io/reading-notes/read3)|
+|5   |[Read 4](https://aajaber.github.io/reading-notes/read4)|
