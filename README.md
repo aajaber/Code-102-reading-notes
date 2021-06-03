@@ -17,5 +17,5 @@
 |3   |[Read 2](https://aajaber.github.io/reading-notes/read2)|
 |4   |[Read 3](https://aajaber.github.io/reading-notes/read3)|
 |5   |[Read 4](https://aajaber.github.io/reading-notes/read4)|
-|6   |[Read 5]()|
-|7   |[Read 6]()|
+|6   |[Read 5](https://aajaber.github.io/reading-notes/read5)|
+|7   |[Read 6](https://aajaber.github.io/reading-notes/read6)|
